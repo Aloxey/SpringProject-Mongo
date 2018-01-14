@@ -45,9 +45,6 @@ public class User {
     }
 
     public void setName(String name) throws Exception {
-        //if (!validateName(name)){
-        //    throw new IllegalArgumentException();
-        //}
         this.name = name;
     }
 
