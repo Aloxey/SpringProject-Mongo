@@ -1,5 +1,5 @@
-group 'SpringRestAPI-Mongo'
-version '1.0-SNAPSHOT'
+group 'springrestapi-mongo'
+version '1.0-snapshot'
 
 buildscript {
     repositories {

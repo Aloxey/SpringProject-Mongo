@@ -46,7 +46,7 @@ Using command line:
 Go in you console to project's folder and type and run "./gradlew bootRun".
 
 Jar file:
-just open the attached "gs-accessing-data-mongodb.jar" in your command line or the operation system GUI.
+In your command line go to jar's file derectory and open with "java -jar app.jar".
 
 
 
